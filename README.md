@@ -18,3 +18,5 @@ Stop ✋: Pause the movie
 Left Swipe : Fast Forward 10 seconds
 
 Right Swipe: Fast Backward 10 seconds
+
+@this code was developed in two man team thanks @ ritik kumar
